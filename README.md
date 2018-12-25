@@ -9,6 +9,6 @@
 \dfrac{du}{dt}=a(bv-u)
 \end{equation}
 <br>
-$$if ~ v=30mv, ~ then: ~~ v\leftarrow c , u\leftarrow u+c$$
+if ~ v=30mv, ~ then: ~~ v\leftarrow c , u\leftarrow u+c
 <br>
 * [Refrence](https://www.izhikevich.org/publications/spikes.htm)
