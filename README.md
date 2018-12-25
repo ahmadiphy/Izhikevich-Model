@@ -1,4 +1,4 @@
-# Python Class for Izhikevich Neural Model
+# Python Class for [Izhikevich Neural Model](https://www.izhikevich.org/publications/spikes.htm)
 
 * Using Runge-Kutta 4th Method
 \begin{equation}
@@ -12,4 +12,4 @@
 \begin{equation}
 if ~ v=30mv, ~ then: ~~ v\leftarrow c , u\leftarrow u+c
 \end{equation}
-[Refrence](https://www.izhikevich.org/publications/spikes.htm)
+
