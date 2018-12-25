@@ -11,4 +11,4 @@
 <br>
 $$if ~ v=30mv, ~ then: ~~ v\leftarrow c , u\leftarrow u+c$$
 <br>
-[Refrence](https://www.izhikevich.org/publications/spikes.htm)
+* [Refrence](https://www.izhikevich.org/publications/spikes.htm)
